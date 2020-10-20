@@ -13,7 +13,7 @@ import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
- 
+ //webservice测试
 public class Test2 {
 	public static String getRes(String xmlString, String callFunctionName) {
 		try {
